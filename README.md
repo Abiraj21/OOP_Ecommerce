@@ -39,3 +39,8 @@ This project strengthened understanding of:
 3. Implementing authentication and validation mechanisms
 4. Building structured CRUD-based systems
 5. Developing interactive and user-friendly web interfaces
+
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/20ae0d5b-f4e5-4269-8973-c3d6bfe2ba36" />
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/fc4e6f3b-fe52-4018-8090-6b9a9038b685" />
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/d4448059-101d-499a-a617-d178ce55ce2d" />
+<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/a1f63a86-3513-454f-b062-0c50b76fc5c0" />
